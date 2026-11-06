@@ -5,14 +5,14 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Calculate Flattened Indexes.vi" Type="VI" URL="../Line Profile/SubVI/Calculate Flattened Indexes.vi"/>
-		<Item Name="Calculate Rake Line Lenghts.vi" Type="VI" URL="../Line Profile/SubVI/Calculate Rake Line Lenghts.vi"/>
+		<Item Name="Calculate Rake Line Lengths.vi" Type="VI" URL="../Line Profile/SubVI/Calculate Rake Line Lengths.vi"/>
 		<Item Name="Check for Alternative Quadrant Correction.vi" Type="VI" URL="../Line Profile/SubVI/Check for Alternative Quadrant Correction.vi"/>
 		<Item Name="Create Edge Map.vi" Type="VI" URL="../Line Profile/SubVI/Create Edge Map.vi"/>
 		<Item Name="Create Index Map of Edges.vi" Type="VI" URL="../Line Profile/SubVI/Create Index Map of Edges.vi"/>
 		<Item Name="Create Key Edge Map.vi" Type="VI" URL="../Line Profile/SubVI/Create Key Edge Map.vi"/>
 		<Item Name="Create Key Index Map.vi" Type="VI" URL="../Line Profile/SubVI/Create Key Index Map.vi"/>
 		<Item Name="Create Key Map Primitive.vi" Type="VI" URL="../Line Profile/SubVI/Create Key Map Primitive.vi"/>
-		<Item Name="Create Key Treshold Map.vi" Type="VI" URL="../Line Profile/SubVI/Create Key Treshold Map.vi"/>
+		<Item Name="Create Key Threshold Map.vi" Type="VI" URL="../Line Profile/SubVI/Create Key Threshold Map.vi"/>
 		<Item Name="Create Line Sized Linear Array.vi" Type="VI" URL="../Line Profile/SubVI/Create Line Sized Linear Array.vi"/>
 		<Item Name="Expand Row Major Array.vi" Type="VI" URL="../Line Profile/SubVI/Expand Row Major Array.vi"/>
 		<Item Name="Flatten Lines.vi" Type="VI" URL="../Line Profile/SubVI/Flatten Lines.vi"/>
@@ -21,7 +21,7 @@
 		<Item Name="Generate Rake Maps.vi" Type="VI" URL="../Line Profile/SubVI/Generate Rake Maps.vi"/>
 		<Item Name="Get Lines Parameters.vi" Type="VI" URL="../Line Profile/SubVI/Get Lines Parameters.vi"/>
 		<Item Name="Grab First Hit in Boolean Map.vi" Type="VI" URL="../Line Profile/SubVI/Grab First Hit in Boolean Map.vi"/>
-		<Item Name="Is Above or Below Treshold.vi" Type="VI" URL="../Line Profile/SubVI/Is Above or Below Treshold.vi"/>
+		<Item Name="Is Above or Below Threshold.vi" Type="VI" URL="../Line Profile/SubVI/Is Above or Below Threshold.vi"/>
 		<Item Name="Line Linear Fit.vi" Type="VI" URL="../Line Profile/SubVI/Line Linear Fit.vi"/>
 		<Item Name="Normalise boolean maps to the longest length.vi" Type="VI" URL="../Line Profile/SubVI/Normalise boolean maps to the longest length.vi"/>
 		<Item Name="Reduce Keys to 1D and Unique set.vi" Type="VI" URL="../Line Profile/SubVI/Reduce Keys to 1D and Unique set.vi"/>
@@ -36,5 +36,5 @@
 	<Item Name="G2CPU Line Fit.vi" Type="VI" URL="../Line Profile/G2CPU Line Fit.vi"/>
 	<Item Name="G2CPU Line Indexes To Coordinates.vi" Type="VI" URL="../Line Profile/G2CPU Line Indexes To Coordinates.vi"/>
 	<Item Name="G2CPU Rake Lines.vi" Type="VI" URL="../Line Profile/G2CPU Rake Lines.vi"/>
-	<Item Name="G2CPU Treshold Detection.vi" Type="VI" URL="../Line Profile/G2CPU Treshold Detection.vi"/>
+	<Item Name="G2CPU Threshold Detection.vi" Type="VI" URL="../Line Profile/G2CPU Threshold Detection.vi"/>
 </Library>
