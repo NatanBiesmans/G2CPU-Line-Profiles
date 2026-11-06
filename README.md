@@ -4,5 +4,5 @@ FOSS source code of line profile tools for the G²CPU GPU and CPU Compute toolki
 
 No guarantee on performance or reliability is made.
 
-Validated with G²CPU V1.6.1
+Validated with G²CPU V1.6.2
 
